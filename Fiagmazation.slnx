@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Fiagmazation.Api/Fiagmazation.Api.csproj" />
+    <Project Path="src/Fiagmazation.Application/Fiagmazation.Application.csproj" />
+    <Project Path="src/Fiagmazation.Domain/Fiagmazation.Domain.csproj" />
+    <Project Path="src/Fiagmazation.Infrastructure/Fiagmazation.Infrastructure.csproj" />
+  </Folder>
+</Solution>
