@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Fiagmazation">
+  <rect width="64" height="64" rx="14" fill="#3B5BFE" />
+  <path d="M20 46V18h22v7H28v6h12v7H28v8z" fill="#FFFFFF" />
+  <circle cx="46" cy="44" r="5" fill="#22C55E" />
+</svg>

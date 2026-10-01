@@ -2,7 +2,7 @@
 # usage: powershell -ExecutionPolicy Bypass -File backend\deploy\prepare.ps1
 $ErrorActionPreference = "Stop"
 
-$root = Split-Path -Parent (Split-Path -Parent $PSScriptRoot)
+$root = Split-Path -Parent $PSScriptRoot
 $project = Join-Path $root "src\Fiagmazation.Api\Fiagmazation.Api.csproj"
 $out = Join-Path $root "publish"
 
